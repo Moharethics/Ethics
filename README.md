@@ -1,0 +1,2 @@
+# Ethics
+This is my first project.
